@@ -1,7 +1,8 @@
-# hello-world
-New test repo
-## Exposing myself to the world
+---
+layout: default
+title: Start page
+nav_order: 1
+---
+# Product manual
 
-Master edit
-Feature edit
-
+## Overview
