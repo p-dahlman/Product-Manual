@@ -1,3 +1,5 @@
+# System Requirements
+
 |Device Type|Operative System|
 |---|---|
 |PC|Windows 7 or higher|

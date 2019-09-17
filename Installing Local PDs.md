@@ -1,3 +1,5 @@
+# Installing Local PDs
+
 1. Ensure that the Windows user account that is currently logged in has Administrator access rights. 
 2. Connect the USB cable from the Local PD to the PC. 
 3. Verify that the drivers are downloaded and installed automatically. 
