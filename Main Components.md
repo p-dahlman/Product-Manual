@@ -1,3 +1,6 @@
+---
+nav_order: 2
+---
 # Main Components
 
 ![](./img/Main%20Components.png)
