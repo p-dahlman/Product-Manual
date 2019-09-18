@@ -1,6 +1,4 @@
 ---
-layout: default
-title: Customization
 nav_order: 2
 ---
 # About Local PDs
