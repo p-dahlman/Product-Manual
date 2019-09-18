@@ -14,4 +14,4 @@ Make a note of the assigned COM port that is displayed in the notification area.
 
 Example: `STMicroelectronics Virtual COM Port (COM7)`
  
-4. If the drivers are not installed automatically, contact technical support. 
+If the drivers are not installed automatically, contact technical support. 
