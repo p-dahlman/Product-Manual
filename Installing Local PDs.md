@@ -11,7 +11,7 @@ nav_order: 1
 >**NOTE!**
 >
 >Make a note of the assigned COM port that is displayed in the notification area. When logging in to CWM, select the assigned COM port if CWM fails to find the COM port automatically.
-
-Example: `STMicroelectronics Virtual COM Port (COM7)`
+>
+>Example: `STMicroelectronics Virtual COM Port (COM7)`
  
 If the drivers are not installed automatically, contact technical support. 
