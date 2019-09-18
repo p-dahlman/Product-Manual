@@ -1,3 +1,7 @@
+---
+parent: Getting Started
+nav_order: 1
+---
 # Installing Local PDs
 
 1. Ensure that the Windows user account that is currently logged in has Administrator access rights. 
