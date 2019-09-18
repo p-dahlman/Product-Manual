@@ -1,6 +1,8 @@
-# Getting started
+---
+nav_order: 2
+---
 
-[About Local PDs](./About Local PDs.md)
+# Getting started
 
 [Installing Local PDs](./Installing Local PDs.md)
 
