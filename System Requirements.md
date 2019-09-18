@@ -1,3 +1,7 @@
+---
+parent: Getting Started
+nav_order: 2
+---
 # System Requirements
 
 |Device Type|Operative System|
