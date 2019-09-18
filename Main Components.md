@@ -1,6 +1,6 @@
 # Main Components
 
-![](./img/Main Components.png)
+![]("./img/Main Components.png")
 
 |Position|Component|
 |---:|---|
