@@ -1,3 +1,8 @@
+---
+layout: default
+title: Customization
+nav_order: 2
+---
 # About Local PDs
 
 Local PDs are used to authenticate administrators of a locking system when logging in to, and programming keys in administration software such as CLIQ™ Web Manager (CWM).
